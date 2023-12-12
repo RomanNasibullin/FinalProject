@@ -85,5 +85,4 @@ public class AnalyticsApp {
         System.out.println("Топ-3 региона с наибольшим количеством спортивных объектов: ");
         System.out.println(String.join(", ", dataBase.getCountObj()));
     }
-
 }
