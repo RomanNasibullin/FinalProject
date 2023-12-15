@@ -362,5 +362,8 @@
         }
     }
 ## 4. Вывод программы
+Гистограмма, выполненная с помощью Java
 ![image](https://github.com/RomanNasibullin/FinalProject/assets/103939443/6da7b8ab-06c4-4d19-a05b-f3424c8793b7)
+Гистограмма, выполненная с помощью Excel
+![image](https://github.com/RomanNasibullin/FinalProject/assets/103939443/35b04067-9cdc-42db-870b-5574f36d156a)
 ![image](https://github.com/RomanNasibullin/FinalProject/assets/103939443/7361927c-58c0-40de-953c-aa604310c563)
